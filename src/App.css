@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+.App{font-family: 'Rye', cursive;}
+    
+
+.pop-image{
+    height: 150px;
+    width: 150px;
+}
+.link-styling {
+    color: white;
+    text-decoration: none;
+  }
+  .link-styling:hover {
+    color: white;
+  }
+  .logo{
+    height: 70px;
+    width: 70px;
+  }  
+
+  .last{
+    color: black;
+    background-color: white;
+   
+    height: 200px;
+    /* margin-top: 5rem;
+    margin-bottom: 2rem; */
+  }
+  .foot{
+    list-style-type: none;
+  }
+  .small-cakes{
+
+margin-top: 50px;
+  }
+  .other-cakes{
+ 
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .pic{
+    border-radius: 30px;
+  }
