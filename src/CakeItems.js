@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { useContext, useState } from 'react';
-import { Context } from './App';
+import { Context } from './App'; //import the useContext hook from 'react' and the Context object from the App component. Then, you can call the useContext hook and pass the Context object to access the values provided by the context.
 import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
@@ -21,7 +21,7 @@ function CakeItems(props) {
 
   return (
     <div>
-      <div className="card" style={{ width: '18rem' }}>
+      <div className="card" style={{ width: '15rem' }}>
         <img src={productImage} className="card-img-top" alt="..." />
         <div className="card-body">
           <p className="card-text">£{price}</p>

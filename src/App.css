@@ -17,10 +17,10 @@
   .logo{
     height: 70px;
     width: 70px;
+    border-radius: 50px;
   }  
 
   .last{
-    color: black;
     background-color: white;
    
     height: 200px;
@@ -42,3 +42,27 @@ margin-top: 50px;
   .pic{
     border-radius: 30px;
   }
+
+  .sales-card{
+    margin-bottom: 100px;
+  }
+  .banner{
+    margin-bottom: 100px;
+  }
+  .treats{
+    margin-bottom: 70px;
+  }
+  .main-footer{
+    margin-top: 50px;
+  }
+  .navbar-nav a {
+    text-decoration: none;
+  
+  }
+  .navbar{
+    background-color: antiquewhite;
+  }
+  .cake-types{
+    margin-bottom: 100px;
+  }
+  

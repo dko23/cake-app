@@ -3,9 +3,10 @@ import React from 'react';
 function Footer() {
   return (
     <div>
-      <div className="container-fluid">
-        <div className="row">
-          <div className="col-md-4">
+      
+      <div className="container-fluid main-footer">
+        <div className="row footer">
+          <div className="col-md-4 ">
             <h6>About US</h6>
             <ul className='foot'>
               <li>About Bake</li>
